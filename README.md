@@ -4,7 +4,7 @@
 
 ---
 
-## 🤔 Why This Project?
+## 🤔 Why This Use Case?
 
 In healthcare, patient and clinician notes about medical conditions are rarely standardized. These free-text descriptions make it hard to:
 - Compare or aggregate data
